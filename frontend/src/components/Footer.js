@@ -9,7 +9,6 @@ const Footer = () => {
             <Container id='navcontainer' className='text-white fluid'>
                 <Row>
                     <Col className='text-left py-3'>
-
                         <Nav className="ml-auto">
                             <LinkContainer to='/about'>
                                 <Nav.Link>About</Nav.Link></LinkContainer>
